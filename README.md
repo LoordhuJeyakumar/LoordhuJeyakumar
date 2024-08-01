@@ -71,4 +71,7 @@ Feel free to reach out for collaborations or just a chat about tech!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919600693684)
 [![Phone](https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](<a href="tel:+919600693684"/>)
 
+Phone: +1 (555) 123-4567
+
+
 
