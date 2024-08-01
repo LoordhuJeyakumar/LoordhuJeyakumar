@@ -52,7 +52,7 @@ I'm an aspiring full-stack developer with a passion for creating user-friendly w
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=loordhuJeyakumar&show_icons=true&theme=radical)
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=loordhuJeyakumar&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=loordhuJeyakumar&theme=synthwave&show_icons=true&count_private=true “loordhuJeyakumar’ GutHub Stats”)
 
 ---
 
