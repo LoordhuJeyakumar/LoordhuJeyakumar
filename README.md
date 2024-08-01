@@ -68,7 +68,7 @@ When I'm not coding, you can find me solving GUVI's CodeKata challenges. I've co
 Feel free to reach out for collaborations or just a chat about tech!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loordhujeyakumar@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919600693684)
-[![Phone](https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919600693684)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919600693684)
+[![Phone](https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](<a href="tel:+919600693684"/>)
 
 
