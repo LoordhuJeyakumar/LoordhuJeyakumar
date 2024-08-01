@@ -2,8 +2,8 @@
 
 ## 💻 Full Stack Developer | MERN Specialist | Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your_LinkedIn_URL](https://www.linkedin.com/in/loordhujeyakumar/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)]([Your_Portfolio_URL](https://loordhujeyakumar.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loordhujeyakumar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loordhujeyakumar.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loordhuJeyakumar)
 
 ---
@@ -42,7 +42,7 @@ I'm an aspiring full-stack developer with a passion for creating user-friendly w
    - Tech: MERN Stack, Redux, Bootstrap
 
 2. **Imprest-ive Pettycash Manager** - Web app for managing petty cash
-   - [Live Demo](https://imprest-ive-pettycash-manager.netlify.app/) | [Frontend](https://github.com/LoordhuJeyakumar/pettycash-manager-fe.git) | [Backend]([Your_Backend_Repo_Link](https://github.com/LoordhuJeyakumar/pettycash-manager-be.git))
+   - [Live Demo](https://imprest-ive-pettycash-manager.netlify.app/) | [Frontend](https://github.com/LoordhuJeyakumar/pettycash-manager-fe.git) | [Backend](https://github.com/LoordhuJeyakumar/pettycash-manager-be.git)
    - Tech: MERN Stack, Redux, Chart.js, ag-grid-react
 
 3. **[More Projects](https://github.com/LoordhuJeyakumar?tab=repositories)** - Check out my other projects including Password Reset Flow, Student-Teacher Management System, and more!
