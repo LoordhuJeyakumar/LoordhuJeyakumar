@@ -69,7 +69,9 @@ Feel free to reach out for collaborations or just a chat about tech!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loordhujeyakumar@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919600693684)
-[![Phone](https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919600693684)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loordhujeyakumar/)
+Phone : +91 9600693684
+
 
 
 
