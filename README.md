@@ -135,6 +135,7 @@ const devOpsTools = {
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=loordhuJeyakumar&theme=dark&border_radius=4.2)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loordhuJeyakumar&theme=radical" alt="GitHub Streak"/>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=loordhuJeyakumar&theme=dark&border_radius=4.2" alt="GitHub Streak" /></a>
 </p>
 
 ## 🎯 Featured Projects
