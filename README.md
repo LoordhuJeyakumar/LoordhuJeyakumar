@@ -74,5 +74,145 @@ Feel free to reach out for collaborations or just a chat about tech!
 Phone : +91 9600693684
 
 
+# 👋 Hello World, I'm Loordhu Jeyakumar! 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;MERN+Specialist;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
+
+## 🎯 Professional Summary
+
+> "Transforming ideas into elegant solutions, one commit at a time"
+
+Passionate Full Stack Developer with expertise in MERN stack and a strong foundation in technical troubleshooting. Currently advancing from tech support to development, bringing a unique perspective that combines customer-centric problem-solving with robust technical skills.
+
+### 🎨 What Sets Me Apart
+
+- 🔍 Strong debugging skills from technical support background
+- 🚀 Rapid learning ability and adaptability
+- 🤝 Excellence in cross-functional collaboration
+- 💡 Creative problem-solving approach
+- 📊 Data-driven decision making
+
+## 🛠️ Technical Arsenal
+
+### Frontend Development
+```javascript
+const frontendSkills = {
+    languages: ["JavaScript", "HTML5", "CSS3"],
+    frameworks: ["React.js", "Bootstrap", "Material-UI"],
+    stateManagement: ["Redux", "Context API"],
+    styling: ["Styled-Components", "SCSS", "Tailwind CSS"],
+    tools: ["Webpack", "Babel", "npm", "yarn"]
+}
+```
+
+### Backend Development
+```javascript
+const backendSkills = {
+    runtime: "Node.js",
+    frameworks: ["Express.js"],
+    databases: ["MongoDB", "MySQL"],
+    apis: ["REST", "GraphQL"],
+    tools: ["Postman", "Thunder Client"]
+}
+```
+
+### DevOps & Tools
+```javascript
+const devOpsTools = {
+    versionControl: ["Git", "GitHub"],
+    deployment: ["Netlify", "Heroku", "Render"],
+    testing: ["Jest", "React Testing Library"],
+    other: ["VSCode", "Sublime Text", "Docker"]
+}
+```
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loordhuJeyakumar&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loordhuJeyakumar&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loordhuJeyakumar&theme=radical" alt="GitHub Streak"/>
+</p>
+
+## 🎯 Featured Projects
+
+### 1. DemocracyHub
+<img align="right" width="300" src="/api/placeholder/300/150" alt="DemocracyHub Screenshot"/>
+
+A comprehensive platform fostering democratic engagement and civic participation.
+
+- 🔗 [Live Demo](https://democracyhub.netlify.app/)
+- 💻 [Frontend Code](https://github.com/LoordhuJeyakumar/democracyhub-fe.git)
+- ⚙️ [Backend Code](https://github.com/LoordhuJeyakumar/democracyhub-be.git)
+
+**Key Features:**
+- User authentication and authorization
+- Real-time updates and notifications
+- Interactive data visualizations
+- Responsive design for all devices
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux, Bootstrap
+
+### 2. Imprest-ive Pettycash Manager
+<img align="right" width="300" src="/api/placeholder/300/150" alt="Pettycash Manager Screenshot"/>
+
+Enterprise-grade solution for efficient petty cash management.
+
+- 🔗 [Live Demo](https://imprest-ive-pettycash-manager.netlify.app/)
+- 💻 [Frontend Code](https://github.com/LoordhuJeyakumar/pettycash-manager-fe.git)
+- ⚙️ [Backend Code](https://github.com/LoordhuJeyakumar/pettycash-manager-be.git)
+
+**Key Features:**
+- Advanced data visualization with Chart.js
+- High-performance data grid using ag-grid-react
+- Comprehensive reporting system
+- Role-based access control
+
+**Tech Stack:** MERN Stack, Redux, Chart.js, ag-grid-react
+
+## 🏆 Achievements & Certifications
+
+- 🎯 Completed 100+ GUVI CodeKata challenges
+- 📚 MERN Stack Development Certification from GUVI
+- 🌟 Consistently maintained 4.5+ rating in technical support role
+- 🔥 Successfully resolved 1000+ technical issues
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ███████████░░░░░░░░  45.0%
+React        8 hrs 45 mins   ██████░░░░░░░░░░░░░  31.5%
+Node.js      4 hrs 15 mins   ███░░░░░░░░░░░░░░░░  15.3%
+CSS          2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░   8.2%
+```
+<!--END_SECTION:waka-->
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/loordhujeyakumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:loordhujeyakumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/+919600693684">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://loordhujeyakumar.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=loordhuJeyakumar&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
 
 
