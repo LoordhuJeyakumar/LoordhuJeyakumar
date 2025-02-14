@@ -134,11 +134,18 @@ const devOpsTools = {
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loordhuJeyakumar&layout=compact&theme=radical"/>
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=loordhuJeyakumar&theme=dark&border_radius=4.2)](https://git.io/streak-stats)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loordhuJeyakumar&theme=radical" alt="GitHub Streak"/>
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=loordhuJeyakumar&theme=dark&border_radius=4.2" alt="GitHub Streak" /></a>
-</p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=loordhujeyakumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=loordhujeyakumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
 
 ## 🎯 Featured Projects
 
@@ -210,6 +217,9 @@ CSS          2 hrs 15 mins   ██░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=loordhujeyakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
