@@ -130,7 +130,8 @@ const devOpsTools = {
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loordhuJeyakumar&show_icons=true&theme=radical?include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loordhujeyakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loordhuJeyakumar&layout=compact&theme=radical"/>
 </p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=loordhuJeyakumar&theme=dark&border_radius=4.2)](https://git.io/streak-stats)
