@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Loordhu Jeyakumar!
+<!--- # 👋 Hello, I'm Loordhu Jeyakumar!
 
 ## 💻 Full Stack Developer | MERN Specialist | Problem Solver
 
@@ -71,7 +71,8 @@ Feel free to reach out for collaborations or just a chat about tech!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919600693684)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loordhujeyakumar/)
 </br>
-Phone : +91 9600693684
+Phone : +91 9600693684 
+-->
 
 
 # 👋 Hello World, I'm Loordhu Jeyakumar! 
