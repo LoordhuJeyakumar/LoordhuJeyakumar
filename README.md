@@ -219,8 +219,7 @@ CSS          2 hrs 15 mins   ██░░░░░░░░░░░░░░░
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=loordhujeyakumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=loordhujeyakumar&icon=7&color=2)](https://visitcount.itsvg.in)
 ---
 
 <p align="center">
